@@ -276,7 +276,7 @@ h3 span{
     text-align: center;
     text-transform: uppercase;
     font-family: "ArialNarrow", sans-serif;
-    font-size: 30px;
+    font-size: 31px;
     margin-top: 30px;
 }
 .block_4 p{
@@ -294,10 +294,12 @@ h3 span{
 .block_5_1{
     display: block;
     float:left;
-    width: 383px;
+    width: 360px;
 }
 .portfolio{
-    margin-top: 50px;
+    display:block;
+    float:left;
+    margin: 50px 0 0 75px;
 }
 .block_5_2{
     display: block;
@@ -309,15 +311,111 @@ h3 span{
 .block_5_2_1{
     display: block;
     float:left;
+    width: 395px;
 }
 .hostel{
-    margin: 38px 0 0 10px;
+    margin: 38px 0 0 5px;
     font-size: 28px
 }
 .hostel span{
     color: #6AAC3A;
-
 }
+.map{
+    display: block;
+    float:left;
+    margin: 5px 3px 0 0;
+}
+.address{
+    display:block;
+    float:left;
+    margin: 7px 15px 0 5px;
+    font-size: 18px;
+    color: #848484;
+}
+.arrow2{
+    display: block;
+    float:left;
+    margin: 16px 0 0 -7px;
+    cursor:pointer;
+}
+.block_5_2_2{
+    display:block;
+    float:left;
+    width: 205px;
+    margin-top: 37px;
+}
+.tel{
+    display: block;
+    float:left;
+    margin: 8px 0 0 30px;
+}
+.tel_3{
+    display:block;
+    float:left;
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 21px;
+    margin: 7px 0 0 2px;
+}
+.train{
+    display:block;
+    float:left;
+    margin: 14px 0 0 -168px;
+}
+.metro{
+    display:block;
+    float:left;
+    font-size: 17px;
+    color: #848484;
+    margin: 8px 0 0 60px;
+}
+.block_5_2_3{
+    display:block;
+    float:left;
+    width: 585px;
+    border-top: 1px solid #e8e8e8;
+    margin-top: 15px;
+}
+.info{
+    display:block;
+    float:left;
+    margin: 25px 0 0 10px;
+    font-size: 17px;
+    line-height: 24px;
+}
+.line_3{
+    display:block;
+    float:left;
+    width: 350px;
+    border:none;
+    background: #e8e8e8;
+    height: 1px;
+    margin: 55px 20px 0 0;
+}
+.button_2{
+    display:block;
+    float:left;
+    width:205px;
+    height:33px;
+    margin: 27px 0 0 6px;
+    padding-top: 12px;
+    background: #6AAC3A;
+    border: 2px solid transparent;
+    border-radius: 2px;
+    text-decoration: none;
+    color: #ffffff;
+    font-size:16px;
+    text-align: center;
+    text-transform: uppercase;
+}
+.button_2:hover{
+    background: #ffffff;
+    border: 2px solid #6AAC3A;
+    border-radius: 2px;
+    color: #6AAC3A;
+}
+
 
 
 
