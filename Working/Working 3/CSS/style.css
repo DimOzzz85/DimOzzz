@@ -262,6 +262,7 @@ header .block_1{
     font-size: 25px;
     text-transform: uppercase;
     color: #ffffff;
+    cursor:pointer;
 }
 .line_1{
     margin-top: 440px;
@@ -290,6 +291,7 @@ h3 span{
 .block_5{
     display: block;
     margin: 0 auto;
+    width: 1366px;
 }
 .block_5_1{
     display: block;
@@ -359,6 +361,10 @@ h3 span{
     font-size: 21px;
     margin: 7px 0 0 2px;
 }
+.tel_3:hover{
+    color: #6AAC3A;
+    transition-duration: 0.3s;
+}
 .train{
     display:block;
     float:left;
@@ -392,7 +398,7 @@ h3 span{
     border:none;
     background: #e8e8e8;
     height: 1px;
-    margin: 55px 20px 0 0;
+    margin: 50px 20px 0 0;
 }
 .button_2{
     display:block;
@@ -422,13 +428,14 @@ h3 span{
     float:left;
     width: 100%;
     font-size: 24px;
-    margin: 20px 0 10px 0;
+    margin: 7px 0 10px 0;
 }
 .block_5_3{
     display: block;
     float: left;
     width: 585px;
     margin: 0 auto;
+    font-family: "ArialNarrow", sans-serif;
 }
 .block_5_3_1{
     display:inline-block;
@@ -462,7 +469,7 @@ h3 span{
 .prise{
     display: block;
     float: left;
-    margin: 13px 0 0 38px;
+    margin: 13px 0 0 43px;
     color: rgba(196, 0, 18, 1);
 }
 .block_5_3_2{
@@ -471,10 +478,175 @@ h3 span{
     width: 50%;
     height: 60px;
     line-height: 1px;
-    margin: 0 0 0 0;
+    margin: 0;
 }
-
-
+.number_image_2 {
+    display: block;
+    float: left;
+    margin: 7px 10px 0 10px;
+}
+.mnumber{
+    display:block;
+    float:left;
+    font-size:17px;
+    margin: 18px 85px 0 0 ;
+}
+.men{
+    display: block;
+    float: right;
+    margin: 7px 0 0 56px;
+}
+.two_number{
+    display: inline-block;
+    float: left;
+    margin-top: 25px;
+    color: #848484;
+}
+.prise_2{
+    display: block;
+    float: left;
+    margin: 12px 0 0 44px;
+    color: rgba(196, 0, 18, 1);
+}
+.line_4{
+    display:block;
+    float:left;
+    width: 100%;
+    border:none;
+    background: #e8e8e8;
+    height: 1px;
+    margin-top: 16px;
+}
+.block_5_3_3{
+    display:inline-block;
+    float:left;
+    width: 50%;
+    height: 60px;
+    line-height: 1px;
+}
+.number_image_3 {
+    display: block;
+    float: left;
+    margin: 7px 15px 0 3px;
+}
+.wnumber{
+    display:block;
+    float:left;
+    font-size:17px;
+    margin: 18px 120px 0 0 ;
+}
+.woman{
+    display: block;
+    float: left;
+    margin: 8px 0 0 0;
+}
+.two_number_2{
+    display: inline-block;
+    float: left;
+    margin-top: 12px;
+    color: #848484;
+}
+.prise_3{
+    display: block;
+    float: left;
+    margin: 12px 0 0 25px;
+    color: rgba(196, 0, 18, 1);
+}
+.block_5_3_4{
+    display:inline-block;
+    float:left;
+    width: 50%;
+    height: 60px;
+    line-height: 1px;
+}
+.number_image_4 {
+    display: block;
+    float: left;
+    margin: 7px 18px 0 8px;
+}
+.allnumber{
+    display:block;
+    float:left;
+    font-size:17px;
+    margin: 18px 136px 0 0 ;
+}
+.all{
+    display: block;
+    float: left;
+    margin: 8px 0 0 0;
+}
+.two_number_3{
+    display: inline-block;
+    float: left;
+    margin-top: 12px;
+    color: #848484;
+}
+.prise_4{
+    display: block;
+    float: left;
+    margin: 12px 0 0 42px;
+    color: rgba(196, 0, 18, 1);
+}
+.line_5 {
+    display: block;
+    float: left;
+    width: 100%;
+    border: none;
+    background: #e8e8e8;
+    height: 1px;
+    margin-top: 10px;
+}
+.block_5_3_5{
+    display:block;
+    float:left;
+    width: 100%;
+    margin: 0 auto;
+}
+.clock{
+    display:block;
+    float:left;
+    margin: 18px 0 0 10px;
+}
+.reserved{
+    display:block;
+    float:left;
+    margin: 18px 0 0 7px;
+    color: #848484;
+}
+.button_3{
+    display:block;
+    float:left;
+    width:203px;
+    height:29px;
+    margin: 7px 0 0 170px;
+    padding-top: 10px;
+    background: #ffffff;
+    border: 2px solid #6AAC3A;
+    border-radius: 2px;
+    text-decoration: none;
+    color: #6AAC3A;
+    font-size:13px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.3s;
+}
+.button_3:hover{
+    background: #6AAC3A;
+    border: 2px solid transparent;
+    border-radius: 2px;
+    color: #ffffff;
+}
+.block_5_4_1{
+    display:block;
+    float:left;
+    width: 406px;
+    top: 100px;
+    right: 200px;
+}
+.stars{
+    display: block;
+    float: left;
+}
 
 
 
