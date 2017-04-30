@@ -292,6 +292,7 @@ h3 span{
     display: block;
     margin: 0 auto;
     width: 1366px;
+    position: relative;
 }
 .block_5_1{
     display: block;
@@ -636,17 +637,36 @@ h3 span{
     border-radius: 2px;
     color: #ffffff;
 }
+.block_5_4{
+    display:block;
+    float:right;
+    width: 406px;
+    position:absolute;
+    top: 1103px;
+    right: -46px;
+    font-family: "ArialNarrow", sans-serif;
+}
 .block_5_4_1{
     display:block;
     float:left;
-    width: 406px;
-    top: 100px;
-    right: 200px;
 }
 .stars{
     display: block;
     float: left;
 }
+.rating{
+    font-size: 48px;
+    margin: 15px 0 0 0;
+}
+.reviews{
+    display: block;
+    float: left;
+    margin: 5px 0 0 0;
+    color: #848484;
+    border-bottom: 1px dashed #848484;
+}
+.block_5_4_2
+
 
 
 
