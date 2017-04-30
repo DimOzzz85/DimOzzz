@@ -295,6 +295,7 @@ h3 span{
     display: block;
     float:left;
     width: 360px;
+    height: 625px;
 }
 .portfolio{
     display:block;
@@ -396,10 +397,10 @@ h3 span{
 .button_2{
     display:block;
     float:left;
-    width:205px;
-    height:33px;
+    width:203px;
+    height:29px;
     margin: 27px 0 0 6px;
-    padding-top: 12px;
+    padding-top: 10px;
     background: #6AAC3A;
     border: 2px solid transparent;
     border-radius: 2px;
@@ -408,12 +409,69 @@ h3 span{
     font-size:16px;
     text-align: center;
     text-transform: uppercase;
+    transition: 0.3s;
 }
 .button_2:hover{
     background: #ffffff;
     border: 2px solid #6AAC3A;
     border-radius: 2px;
     color: #6AAC3A;
+}
+.numbers{
+    display:inline-block;
+    float:left;
+    width: 100%;
+    font-size: 24px;
+    margin: 20px 0 10px 0;
+}
+.block_5_3{
+    display: block;
+    float: left;
+    width: 585px;
+    margin: 0 auto;
+}
+.block_5_3_1{
+    display:inline-block;
+    float:left;
+    width: 50%;
+    height: 60px;
+    line-height: 1px;
+}
+.number_image{
+    display: block;
+    float: left;
+    margin: 0 15px 0 -33px;
+}
+.dnumber{
+    display:block;
+    float:left;
+    font-size:17px;
+    margin: 20px 0 0 0 ;
+}
+.bed{
+    display: block;
+    float: left;
+    margin: 17px 0 0 65px;
+}
+.one_number{
+    display: inline-block;
+    float: left;
+    margin: 12px 0 0 0;
+    color: #848484;
+}
+.prise{
+    display: block;
+    float: left;
+    margin: 13px 0 0 38px;
+    color: rgba(196, 0, 18, 1);
+}
+.block_5_3_2{
+    display:inline-block;
+    float:left;
+    width: 50%;
+    height: 60px;
+    line-height: 1px;
+    margin: 0 0 0 0;
 }
 
 
