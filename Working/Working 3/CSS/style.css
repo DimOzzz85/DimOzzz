@@ -298,7 +298,7 @@ h3 span{
     display: block;
     float:left;
     width: 360px;
-    height: 625px;
+    height: 570px;
 }
 .portfolio{
     display:block;
@@ -663,11 +663,137 @@ h3 span{
     float: left;
     margin: 5px 0 0 0;
     color: #848484;
+    text-decoration: none;
     border-bottom: 1px dashed #848484;
 }
-.block_5_4_2
+.block_5_4_2{
+    display:block;
+    float:left;
+    width: 200px;
+    position: absolute;
+    top: 100px;
+    right: 205px;
+}
+.nearby{
+    display: block;
+    float: left;
+    color:#6AAC3A;
+    font-size: 23px;
+    margin-top: 41px;
+}
+.signpost{
+    display:block;
+    float:left;
+    margin: 42px 0 0 10px;
+}
+.block_5_4_3{
+    display:block;
+    float:left;
+    width: 255px;
+    position: absolute;
+    top: 178px;
+    right: 150px;
+}
+.list{
+    display:block;
+    float:left;
+    margin: 0;
+    color: #919191;
+    line-height: 34px;
 
-
+}
+.list span{
+    display: block;
+    float:right;
+    width: 35px;
+    height: 15px;
+    text-align:center;
+    margin-left: 17px;
+    padding-bottom: 10px;
+    border: 1px solid #e8e8e8;
+}
+.line_6{
+    display:block;
+    float:left;
+    width: 1165px;
+    border:none;
+    background: #e8e8e8;
+    height: 1px;
+    margin: 35px 0 20px 80px;
+}
+.block_6{
+    display: block;
+    margin: 0 auto;
+    width: 1366px;
+    position: relative;
+}
+.block_6_1 {
+    display: block;
+    float: left;
+    width: 360px;
+    height: 570px;
+}
+.block_6_2{
+    display: block;
+    float: left;
+    width: 600px;
+    margin: 0 auto;
+    font-family: "ArialNarrow", sans-serif;
+}
+.block_6_2_1{
+    display: block;
+    float:left;
+    width: 395px;
+}
+.block_6_2_2{
+    display:block;
+    float:left;
+    width: 205px;
+    margin-top: 37px;
+}
+.block_6_2_3{
+    display:block;
+    float:left;
+    width: 585px;
+    border-top: 1px solid #e8e8e8;
+    margin-top: 15px;
+}
+.block_6_3{
+    display: block;
+    float: left;
+    width: 585px;
+    margin: 0 auto;
+    font-family: "ArialNarrow", sans-serif;
+}
+.block_6_4{
+    display:block;
+    float:right;
+    width: 406px;
+    position:absolute;
+    top: 1103px;
+    right: -46px;
+    font-family: "ArialNarrow", sans-serif;
+}
+.block_6_4_1{
+    display:block;
+    float:left;
+}
+.block_6_4_2{
+    display:block;
+    float:left;
+    width: 200px;
+    position: absolute;
+    top: 100px;
+    right: 205px;
+}
+.block_6_4_3{
+    display:block;
+    float:left;
+    width: 255px;
+    position: absolute;
+    top: 178px;
+    right: 150px;
+}
 
 
 
