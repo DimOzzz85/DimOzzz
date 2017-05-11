@@ -1,0 +1,273 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>Госучетник</title>
+</head>
+<body>
+
+<header>
+    <div class="top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7">
+                    <a href="" class="logo">
+                        Гос<span> учетник</span>
+                    </a>
+                    <a class="btn-twitter" href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a class="btn-vk" href=""><i class="fa fa-vk" aria-hidden="true"></i></a>
+                    <a class="btn-facebook" href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                </div>
+                <div class="col-md-5">
+                    <form class="hidden-search" action="" method="get">
+                        <span class="close-form">&times;</span>
+                        <input type="text" name="search" placeholder="Что вы ищете?">
+                        <label for="btn_search"><i class="fa fa-search" aria-hidden="true"></i><input id="btn_search" type="submit" value="Поиск"></label>
+                    </form>
+                    <a class="btn-open-search"><i class="fa fa-search" aria-hidden="true"></i> Поиск</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav>
+                        <ul>
+                            <li><a href="">Бухгалтерия</a></li>
+                            <li><a href="">Кадры</a></li>
+                            <li><a href="">Госзакупки</a></li>
+                            <li><a href="">Бюджетный учет</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<section class="heading">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading-block">
+                    <h1 class="main-h1">Ежедневная помощь бухгалтеру, кадровику, бюджетной и некоммерческой организации</h1>
+                    <a href="" class="tag all">Госучетник</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="top-articles">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="wrap-top-articles">
+                    <div class="block-article">
+                        <div class="heading-articles">
+                            <a class="badge-link" href="">Бухгалтерия</a>
+                        </div>
+                        <div class="title-articles">
+                            <a href="">Астрономия</a>
+                        </div>
+                        <div class="text-articles">
+                            Юношеская сборная России (U-18) крупно обыграла команду Чехии (4:1) в третьем туре группового этапа международного турнира Slovakia Cup.
+                        </div>
+                        <div class="date-articles">
+                            20 февраля 2017
+                        </div>
+                    </div>
+                    <div class="block-article">
+                        <div class="heading-articles">
+                            <a class="badge-link" href="">Кадры</a>
+                        </div>
+                        <div class="title-articles">
+                            <a href="">Астрономия</a>
+                        </div>
+                        <div class="text-articles">
+                            Юношеская сборная России (U-18) крупно обыграла команду Чехии (4:1) в третьем туре группового этапа международного турнира Slovakia Cup.
+                        </div>
+                        <div class="date-articles">
+                            20 февраля 2017
+                        </div>
+                    </div>
+                    <div class="block-article">
+                        <div class="heading-articles">
+                            <a class="badge-link" href="">Госзакупки</a>
+                        </div>
+                        <div class="title-articles">
+                            <a href="">Астрономия</a>
+                        </div>
+                        <div class="text-articles">
+                            Юношеская сборная России (U-18) крупно обыграла команду Чехии (4:1) в третьем туре группового этапа международного турнира Slovakia Cup.
+                        </div>
+                        <div class="date-articles">
+                            20 февраля 2017
+                        </div>
+                    </div>
+                    <div class="block-article">
+                        <div class="heading-articles">
+                            <a class="badge-link" href="">Бюджетный учет</a>
+                        </div>
+                        <div class="title-articles">
+                            <a href="">Астрономия</a>
+                        </div>
+                        <div class="text-articles">
+                            Юношеская сборная России (U-18) крупно обыграла команду Чехии (4:1) в третьем туре группового этапа международного турнира Slovakia Cup.
+                        </div>
+                        <div class="date-articles">
+                            20 февраля 2017
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="update-feed">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading-update-feed">Лента обновлений</div>
+                <div class="wrap-update-feed">
+                    <div class="update-feed-block">
+                        <div class="update-feed-tag">
+                            <a href="" class="tag accounting">Бухгалтерия</a>
+                        </div>
+                        <div class="heading-block">
+                            <a href="">Квят: Старт Сочи-2016 — просто воспоминания, ничего более</a>
+                        </div>
+                        <div class="text-block">
+                            До старта чемпионата Азии по боксу в Ташкенте остались считанные дни - в воскресенье, 30 апреля, начнутся первые поединки главного континентального состязания.
+                        </div>
+                        <div class="date-articles">
+                            20 марта 2017
+                        </div>
+                    </div>
+                    <div class="update-feed-block">
+                        <div class="update-feed-tag">
+                            <a href="" class="tag state-purchases">Госзакупки</a>
+                        </div>
+                        <div class="heading-block">
+                            <a href="">Кузнецова проиграла Зигемунд во втором круге турнира в Штутгарте</a>
+                        </div>
+                        <div class="text-block">
+                            Россиянка Светлана Кузнецова (8) не смогла пробиться в четвертьфинал турнира в Штутгарте, проиграв хозяйке кортов Лауре Зигемунд (WC) со счётом 4:6, 3:6.
+                        </div>
+                        <div class="date-articles">
+                            14 апреля 2017
+                        </div>
+                    </div>
+                    <div class="update-feed-block">
+                        <div class="update-feed-tag">
+                            <a href="" class="tag staff">Кадры</a>
+                        </div>
+                        <div class="heading-block">
+                            <a href="">Квят: Старт Сочи-2016 — просто воспоминания, ничего более</a>
+                        </div>
+                        <div class="text-block">
+                            До старта чемпионата Азии по боксу в Ташкенте остались считанные дни - в воскресенье, 30 апреля, начнутся первые поединки главного континентального состязания.
+                        </div>
+                        <div class="date-articles">
+                            20 марта 2017
+                        </div>
+                    </div>
+                    <div class="update-feed-block">
+                        <div class="update-feed-tag">
+                            <a href="" class="tag budget-accounting">Бюджетный учет</a>
+                        </div>
+                        <div class="heading-block">
+                            <a href="">Квят: Старт Сочи-2016 — просто воспоминания, ничего более</a>
+                        </div>
+                        <div class="text-block">
+                            До старта чемпионата Азии по боксу в Ташкенте остались считанные дни - в воскресенье, 30 апреля, начнутся первые поединки главного континентального состязания.
+                        </div>
+                        <div class="date-articles">
+                            20 марта 2017
+                        </div>
+                    </div>
+                </div>
+                <div class="more-article">
+                    <a href="" class="btn">Показать 5 предыдущих</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<footer>
+    <div class="top">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <a href="" class="logo">
+                        Гос<span> учетник</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="middle">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <nav>
+                        <ul>
+                            <li><a href="">Бухгалтерия</a></li>
+                            <li><a href="">Кадры</a></li>
+                            <li><a href="">Госзакупки</a></li>
+                            <li><a href="">Бюджетный учет</a></li>
+                        </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <a class="btn-twitter" href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                    <a class="btn-vk" href=""><i class="fa fa-vk" aria-hidden="true"></i></a>
+                    <a class="btn-facebook" href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                    <a href="" class="footer-link">О проекте</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Modal error -->
+<div class="modal fade modal-error" id="modalError" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                <div class="modal-title" id="myModalLabel">Ошибка в тексте</div>
+            </div>
+            <div class="modal-body">
+                <form action="">
+                    <textarea name="desc_error" class="form-control" placeholder="Коротко опишите суть ошибки (например: опечатка) и нажмите Отправить"></textarea>
+                    <input type="hidden" name="error_string" id="error_string">
+                    <input type="submit" class="btn" value="Отправить">
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+<script src="/js/custom.js"></script>
+</body>
+</html>
