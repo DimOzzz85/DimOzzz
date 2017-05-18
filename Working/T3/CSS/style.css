@@ -40,19 +40,23 @@ body{
     margin-top: 5px;
     color: white;
     text-transform: uppercase;
+
+}
+.logo:hover{
+    color: #88a8ff;
 }
 .for_logo{
+    display: block;
+    float: left;
     text-decoration: none;
     font-size: 1.3em;
     letter-spacing: 2px;
+    font-weight: 900;
     margin-top: 5px;
-    margin-right: 20px;
     color: white;
     text-transform: uppercase;
-    display: block;
-    float: left;
 }
-.logo:hover{
+.for_logo:hover{
     color: #88a8ff;
 }
 .twitter{
@@ -542,12 +546,6 @@ li::before{
     font-weight:900;
     letter-spacing:2px;
     font-size:0.6875em;
-}
-@media(min-width: 650px){
-    .mobile_menu{
-        display: none;
-    }
-    
 }
 @media(max-width: 690px){
     .logo{
