@@ -1,0 +1,18 @@
+body{
+    margin: 0 auto;
+    background: url("../image/black_gold.png");
+    background-size: cover;
+    width: 100%;
+}
+a{
+    display: block;
+    float: left;
+    font-size: 9em;
+    text-decoration: none;
+    color: #000000;
+    font-family: BebasNeueBook sans-serif;
+    font-weight: 900;
+}
+a:hover{
+    color: #000;
+}
